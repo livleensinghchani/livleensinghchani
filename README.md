@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>👋 Hi there! I'm Livleen Singh Chani, a passionate Software as well as a Full-Stack Developer.<br><br>## About Me<br><br>- 🌍 Location: [Moga, India]<br>- 💼 Current Job: [Your Current Job/Role]<br>- 🎓 Education: [(B.Sc[CS])-Present]<br>- 🚀 I love to explore new technologies and solve complex problems through code.<br>- 💡 Always eager to learn and share knowledge with the community.<br>- 📫 How to reach me: [livleensinghchani@gmail.com]<br>
+<br>👋 Hi there! I'm Livleen Singh Chani, a passionate Software as well as a Full-Stack Developer.<br><br>## About Me<br><br>- 🌍 Location: [Moga, India]<br>- 💼 Current Job: [Personal Projects]<br>- 🎓 Education: [(B.Sc[CS])-Present]<br>- 🚀 I love to explore new technologies and solve complex problems through code.<br>- 💡 Always eager to learn and share knowledge with the community.<br>- 📫 How to reach me: [livleensinghchani@gmail.com]<br>
 
 
 ## 🌐 Socials:
